@@ -1,0 +1,585 @@
+!!!!!!!!!!!!!: Ergoloid Mesylate
+!!!!!!!!!!!!!: Ergoloid Mesylate
+!!!!!!!!!!!!!: Simvastatin Tablets
+^Cerr
+!!!!!!!!!!!!!: Vinpocetine
+!!!!!!!!!!!!!: Epirubicin Hydrochloride Injection
+!!!!!!!!!!!!!: Epirubicin Hydrochloride Injection
+!!!!!!!!!!!!!: Epirubicin Hydrochloride Injection
+!!!!!!!!!!!!!: Mometasone Furoate
+!!!!!!!!!!!!!: Nateglinide
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Tenofovir disoproxil fumarate
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: Oxymetazoline hydrochloride
+!!!!!!!!!!!!!: Amiodarone Hydrochloride Injection
+!!!!!!!!!!!!!: Amiodarone Hydrochloride Injection
+!!!!!!!!!!!!!: Nimesulide
+!!!!!!!!!!!!!: Memantine Hydrochloride Tablets
+!!!!!!!!!!!!!: Memantine Hydrochloride Tablets
+!!!!!!!!!!!!!: Selenium Sulfide
+!!!!!!!!!!!!!: Sparfloxacin
+!!!!!!!!!!!!!: Fluconazole
+!!!!!!!!!!!!!: Fluconazole
+!!!!!!!!!!!!!: Iohexol
+!!!!!!!!!!!!!: Iopamidol
+!!!!!!!!!!!!!: clarithromycin
+!!!!!!!!!!!!!: Metformin Hydrochloride
+err
+!!!!!!!!!!!!!: Pantoprazole Sodium
+!!!!!!!!!!!!!: Paclitaxel Injection
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Amiodarone Hydrochloride Injection
+!!!!!!!!!!!!!: Reserpine
+!!!!!!!!!!!!!: Reserpine
+!!!!!!!!!!!!!: Memantine Hydrochloride Tablets
+!!!!!!!!!!!!!: Montelukast Sodium Tablets
+!!!!!!!!!!!!!: Cinnarizine
+!!!!!!!!!!!!!: Nevirapine
+!!!!!!!!!!!!!: Titanium Dioxide
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Repaglinide
+!!!!!!!!!!!!!: Repaglinide
+!!!!!!!!!!!!!: Memantine Hydrochloride Tablets
+!!!!!!!!!!!!!: Sertraline Hydrochloride
+!!!!!!!!!!!!!: Minocycline Hydrochloride
+!!!!!!!!!!!!!: Sildenafil Citrate
+!!!!!!!!!!!!!: Ecabet Sodium
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Peginterferon alfa-2b
+!!!!!!!!!!!!!: Peginterferon alfa-2b
+!!!!!!!!!!!!!: Peginterferon alfa-2b
+!!!!!!!!!!!!!: Ganciclovir for Injection
+!!!!!!!!!!!!!: Latanoprost
+!!!!!!!!!!!!!: Latanoprost
+!!!!!!!!!!!!!: Nimesulide
+!!!!!!!!!!!!!: Diclofenac Potassium
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Zinc Oxide
+!!!!!!!!!!!!!: Glibenclamide
+!!!!!!!!!!!!!: Captopril
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Efavirenz
+!!!!!!!!!!!!!: Rocuronium Bromide Injection
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Medium-chain Triglycerides
+!!!!!!!!!!!!!: Famotidine
+!!!!!!!!!!!!!: Morphine Sulfate
+!!!!!!!!!!!!!: Topiramate
+!!!!!!!!!!!!!: Topiramate
+!!!!!!!!!!!!!: Diltiazem Hydrochloride
+!!!!!!!!!!!!!: Diltiazem Hydrochloride
+!!!!!!!!!!!!!: Levobunolol Hydrochloride Ophthalmic Solution
+!!!!!!!!!!!!!: Pilocarpine Nitrate
+!!!!!!!!!!!!!: Cefaclor
+!!!!!!!!!!!!!: Calcium Pantothenate
+err
+err
+!!!!!!!!!!!!!: Mycophenolate Mofetil
+!!!!!!!!!!!!!: Mycophenolate Mofetil
+err
+err
+err
+err
+err
+err
+err
+err
+!!!!!!!!!!!!!: Folic Acid
+!!!!!!!!!!!!!: fluconazole
+!!!!!!!!!!!!!: Etofenamate
+err
+err
+err
+!!!!!!!!!!!!!: Quetiapine Fumarate
+!!!!!!!!!!!!!: Quetiapine Fumarate
+err
+err
+!!!!!!!!!!!!!: Daunorubicin Hydrochloride for Injection
+!!!!!!!!!!!!!: Gliclazide
+!!!!!!!!!!!!!: Polymyxin B Sulfate
+!!!!!!!!!!!!!: Hydrotalcite
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Ifosfamide for Injection
+!!!!!!!!!!!!!: ESMOLOL HYDROCHLORIDE
+!!!!!!!!!!!!!: Ceftriaxone Sodium
+!!!!!!!!!!!!!: Acetylcysteine
+!!!!!!!!!!!!!: Azithromycin for Injection
+!!!!!!!!!!!!!: Azithromycin for Injection
+!!!!!!!!!!!!!: Glimepiride
+!!!!!!!!!!!!!: Cefixime
+!!!!!!!!!!!!!: Cefixime
+!!!!!!!!!!!!!: Letrozole Tablets
+!!!!!!!!!!!!!: Paroxetine Hydrochloride
+!!!!!!!!!!!!!: Zoledronic Acid for Injection
+!!!!!!!!!!!!!: Piribedil
+!!!!!!!!!!!!!: Metoprolol Tartrate
+!!!!!!!!!!!!!: Metoprolol Tartrate
+!!!!!!!!!!!!!: Vinpocetine
+!!!!!!!!!!!!!: Vinpocetine
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: DOCETAXEL INJECTION
+!!!!!!!!!!!!!: Mizolastine
+!!!!!!!!!!!!!: Pholcodine
+!!!!!!!!!!!!!: Cefaclor
+err
+!!!!!!!!!!!!!: Vancomycin Hydrochloride for Injection
+!!!!!!!!!!!!!: Polymyxin B Sulfate
+!!!!!!!!!!!!!: Polymyxin B Sulfate
+!!!!!!!!!!!!!: Solifenacin Succinate Tablets
+!!!!!!!!!!!!!: Solifenacin Succinate Tablets
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Voglibose
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Hydroxypropyl Cellulose
+!!!!!!!!!!!!!: Ursodeoxycholic Acid
+!!!!!!!!!!!!!: Iodixanol
+!!!!!!!!!!!!!: Alprostadil
+!!!!!!!!!!!!!: Azithromycin for Injection
+!!!!!!!!!!!!!: Cisplatin Injection
+!!!!!!!!!!!!!: Clomipramine Hydrochloride
+!!!!!!!!!!!!!: Domperidone
+!!!!!!!!!!!!!: Acetylcysteine
+!!!!!!!!!!!!!: Fludarabine Phosphate for Injection
+!!!!!!!!!!!!!: Fludarabine Phosphate for Injection
+!!!!!!!!!!!!!: Haloperidol
+!!!!!!!!!!!!!: Azithromycin
+!!!!!!!!!!!!!: Solifenacin Succinate Tablets
+!!!!!!!!!!!!!: Medium chain Triglyceride
+!!!!!!!!!!!!!: Donepezil Hydrochloride
+!!!!!!!!!!!!!: Desloratadine Tablets
+!!!!!!!!!!!!!: Desloratadine Tablets
+!!!!!!!!!!!!!: Human albumin
+!!!!!!!!!!!!!: Carteolol Hydrochloride
+!!!!!!!!!!!!!: Human albumin
+!!!!!!!!!!!!!: Nimodipine
+!!!!!!!!!!!!!: Calcitriol
+!!!!!!!!!!!!!: Daunorubicin Hydrochloride
+!!!!!!!!!!!!!: Propofol
+!!!!!!!!!!!!!: Amiodarone Hydrochloride
+!!!!!!!!!!!!!: Cefotaxime Sodium
+!!!!!!!!!!!!!: Pirarubicin
+!!!!!!!!!!!!!: Oxymetazoline hydrochloride
+!!!!!!!!!!!!!: Pemetrexed Disodium for Injection
+!!!!!!!!!!!!!: Propofol
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Ticlopidine Hydrochloride
+err
+!!!!!!!!!!!!!: Azithromycin for Injection
+err
+err
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: Fludarabine Phosphate for Injection
+!!!!!!!!!!!!!: Human albumin
+!!!!!!!!!!!!!: Human albumin
+!!!!!!!!!!!!!: Atorvastatin Calcium
+!!!!!!!!!!!!!: Furosemide
+!!!!!!!!!!!!!: Atenolol
+!!!!!!!!!!!!!: Paroxetine Hydrochloride
+!!!!!!!!!!!!!: Tranexamic Acid
+!!!!!!!!!!!!!: Terbinafine Hydrochloride
+!!!!!!!!!!!!!: Fluvastatin Sodium
+!!!!!!!!!!!!!: Rabbit Anti-human Thymocyte Immunoglobulin
+!!!!!!!!!!!!!: Olopatadine Hydrochloride
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Cefixime
+!!!!!!!!!!!!!: Mecobalamin
+!!!!!!!!!!!!!: Carbamazepine
+!!!!!!!!!!!!!: Carbamazepine
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Atorvastatin Calcium
+!!!!!!!!!!!!!: Atorvastatin Calcium
+!!!!!!!!!!!!!: Amlodipine Besylate
+!!!!!!!!!!!!!: Tramadol Hydrochloride
+!!!!!!!!!!!!!: Olopatadine Hydrochloride
+!!!!!!!!!!!!!: Olopatadine Hydrochloride
+!!!!!!!!!!!!!: Ketoconazole
+!!!!!!!!!!!!!: Topiramate Tablets
+!!!!!!!!!!!!!: Topiramate Tablets
+!!!!!!!!!!!!!: Ropivacaine hydrochloride injection
+!!!!!!!!!!!!!: Ropivacaine hydrochloride injection
+!!!!!!!!!!!!!: Ropivacaine hydrochloride injection
+!!!!!!!!!!!!!: Ropivacaine hydrochloride injection
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Meropenem for Injection
+!!!!!!!!!!!!!: Milrinone Lactate Injection
+!!!!!!!!!!!!!: Milrinone Lactate Injection
+!!!!!!!!!!!!!: Milrinone Lactate Injection
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Desloratadine Tablets
+!!!!!!!!!!!!!: DEXAMETHASONE SODIUM PHOSPHATE
+!!!!!!!!!!!!!: Desloratadine Tablets
+!!!!!!!!!!!!!: Cefaclor
+!!!!!!!!!!!!!: Candesartan Cilexetil
+!!!!!!!!!!!!!: Azithromycin
+!!!!!!!!!!!!!: Carboprost tromethamine
+!!!!!!!!!!!!!: Carboprost tromethamine
+!!!!!!!!!!!!!: Carboprost tromethamine
+!!!!!!!!!!!!!: Rocuronium Bromide Injection
+!!!!!!!!!!!!!: Insulin Detemir
+!!!!!!!!!!!!!: Miconazole Nitrate
+!!!!!!!!!!!!!: Celecoxib
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Hydrochlorothiazide
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Iomeprol
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Milrinone Lactate Injection
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Lisinopril tablets
+!!!!!!!!!!!!!: Cefdinir
+!!!!!!!!!!!!!: Isoflurane
+!!!!!!!!!!!!!: Isoflurane
+!!!!!!!!!!!!!: Ceftriaxone Sodium for Injection
+!!!!!!!!!!!!!: Voriconazole for Injection
+!!!!!!!!!!!!!: Hypromellose
+!!!!!!!!!!!!!: Voriconazole for Injection
+!!!!!!!!!!!!!: Paroxetine Hydrochloride
+!!!!!!!!!!!!!: Amlodipine Besylate
+!!!!!!!!!!!!!: Sulfamethoxazole
+!!!!!!!!!!!!!: Fluocinonide
+!!!!!!!!!!!!!: Naltrexone Hydrochloride
+!!!!!!!!!!!!!: Montelukast Sodium
+!!!!!!!!!!!!!: Paclitaxel Injection
+!!!!!!!!!!!!!: Paclitaxel Injection
+!!!!!!!!!!!!!: Hypromellose
+!!!!!!!!!!!!!: Ubidecarenone
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Entecavir
+!!!!!!!!!!!!!: Entecavir
+!!!!!!!!!!!!!: Entecavir
+!!!!!!!!!!!!!: Ciprofloxacin Tablets
+!!!!!!!!!!!!!: Ciprofloxacin Tablets
+!!!!!!!!!!!!!: Gliquidone
+!!!!!!!!!!!!!: Gliquidone
+!!!!!!!!!!!!!: Indapamide
+!!!!!!!!!!!!!: Rabbit Anti-human Thymocyte Immunoglobulin
+!!!!!!!!!!!!!: Rabbit Anti-human Thymocyte Immunoglobulin
+!!!!!!!!!!!!!: Cisapride
+!!!!!!!!!!!!!: Hydroxyethyl Starch 130/0.4
+!!!!!!!!!!!!!: Pantoprazole sodium for injection
+!!!!!!!!!!!!!: Oxaliplatin for Injection
+!!!!!!!!!!!!!: Diosmectite
+!!!!!!!!!!!!!: Pemetrexed Disodium for Injection
+!!!!!!!!!!!!!: Mupirocin
+!!!!!!!!!!!!!: Insulin Aspart
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Metformin Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Co-dergocrine Mesylate
+!!!!!!!!!!!!!: Co-dergocrine Mesylate
+!!!!!!!!!!!!!: Amoxicillin Capsules
+!!!!!!!!!!!!!: Indapamide
+!!!!!!!!!!!!!: Olmesartan Medoxomil
+!!!!!!!!!!!!!: Cefadroxil
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Noscapine
+!!!!!!!!!!!!!: Rabbit Anti-human Thymocyte Immunoglobulin
+!!!!!!!!!!!!!: Daunorubicin Hydrochloride
+!!!!!!!!!!!!!: Cefuroxime Axetil
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: Repaglinide
+!!!!!!!!!!!!!: Fondaparinux Sodium Injection
+!!!!!!!!!!!!!: Doxorubicin Hydrochloride
+!!!!!!!!!!!!!: Silodosin
+!!!!!!!!!!!!!: Silodosin
+!!!!!!!!!!!!!: Nicergoline
+!!!!!!!!!!!!!: Nicergoline
+!!!!!!!!!!!!!: Nicergoline
+!!!!!!!!!!!!!: Sulfamethoxazole
+!!!!!!!!!!!!!: Josamycin
+!!!!!!!!!!!!!: Nystatin
+!!!!!!!!!!!!!: Carteolol Hydrochloride
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Reserpine
+!!!!!!!!!!!!!: Meloxicam
+!!!!!!!!!!!!!: Colchicine
+!!!!!!!!!!!!!: Doxorubicin Hydrochloride
+err
+!!!!!!!!!!!!!: Montelukast sodium
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Pregabalin Capsules
+!!!!!!!!!!!!!: Rebamipide
+!!!!!!!!!!!!!: Cilostazol
+!!!!!!!!!!!!!: Diltiazem Hydrochloride
+!!!!!!!!!!!!!: Telbivudine
+!!!!!!!!!!!!!: Rabeprazole Sodium
+!!!!!!!!!!!!!: Amlodipine Besylate
+!!!!!!!!!!!!!: Loperamide Hydrochloride
+!!!!!!!!!!!!!: Adenosine Injection
+!!!!!!!!!!!!!: Vancomycin Hydrochloride for Injection
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Linezolid Injection
+!!!!!!!!!!!!!: Tranexamic Acid Tablets
+!!!!!!!!!!!!!: Adefovir Dipivoxil
+!!!!!!!!!!!!!: Cytarabine Injection
+!!!!!!!!!!!!!: Cytarabine Injection
+!!!!!!!!!!!!!: Cytarabine Injection
+!!!!!!!!!!!!!: Epirubicin Hydrochloride
+!!!!!!!!!!!!!: Piroxicam
+!!!!!!!!!!!!!: Piroxicam
+!!!!!!!!!!!!!: Gemcitabine Hydrochloride for Injection
+!!!!!!!!!!!!!: Gemcitabine Hydrochloride for Injection
+!!!!!!!!!!!!!: Esomeprazole Sodium
+!!!!!!!!!!!!!: Ergoloid Mesylate
+!!!!!!!!!!!!!: Atorvastatin Calcium
+!!!!!!!!!!!!!: Cefdinir
+!!!!!!!!!!!!!: Linezolid Injection
+!!!!!!!!!!!!!: Human Serum Albumin
+!!!!!!!!!!!!!: Fluconazole
+!!!!!!!!!!!!!: Human Serum Albumin
+!!!!!!!!!!!!!: Nicergoline
+!!!!!!!!!!!!!: Calcitriol Injection
+!!!!!!!!!!!!!: Triprolidine Hydrochloride
+!!!!!!!!!!!!!: Bifonazole
+!!!!!!!!!!!!!: Calcitriol Injection
+!!!!!!!!!!!!!: Itraconazole
+!!!!!!!!!!!!!: Pantoprazole Sodium
+!!!!!!!!!!!!!: Pantoprazole Sodium
+!!!!!!!!!!!!!: Pantoprazole Sodium
+!!!!!!!!!!!!!: Midazolam Injection
+!!!!!!!!!!!!!: Verapamil Hydrochloride
+!!!!!!!!!!!!!: Quetiapine Fumarate
+!!!!!!!!!!!!!: Topiramate
+!!!!!!!!!!!!!: Hypromellose
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Isoflurane
+!!!!!!!!!!!!!: Isoflurane
+!!!!!!!!!!!!!: Olanzapine
+!!!!!!!!!!!!!: Felodipine
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Nystatin
+!!!!!!!!!!!!!: Hypromellose
+!!!!!!!!!!!!!: Saxagliptin
+!!!!!!!!!!!!!: Saxagliptin
+!!!!!!!!!!!!!: Saxagliptin
+!!!!!!!!!!!!!: Saxagliptin
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Montelukast Sodium Tablets
+!!!!!!!!!!!!!: Docetaxel Injection
+!!!!!!!!!!!!!: Tranexamic Acid Tablets
+!!!!!!!!!!!!!: Terbutaline Sulfate
+!!!!!!!!!!!!!: Rabeprazole Sodium
+!!!!!!!!!!!!!: Rabeprazole Sodium
+!!!!!!!!!!!!!: Econazole Nitrate
+!!!!!!!!!!!!!: Fluconazole
+!!!!!!!!!!!!!: Ipratropium Bromide
+!!!!!!!!!!!!!: Lansoprazole
+!!!!!!!!!!!!!: Bosentan
+!!!!!!!!!!!!!: Terazosin Hydrochloride
+!!!!!!!!!!!!!: Voglibose
+!!!!!!!!!!!!!: Tranexamic Acid Tablets
+!!!!!!!!!!!!!: Triamcinolone Acetonide
+!!!!!!!!!!!!!: Haloperidol Decanoate Injection
+!!!!!!!!!!!!!: Amoxicillin Capsules
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Amoxicillin Capsules
+!!!!!!!!!!!!!: Azithromycin for Injection
+!!!!!!!!!!!!!: Montelukast Sodium Tablets
+!!!!!!!!!!!!!: Fexofenadine Hydrochloride
+!!!!!!!!!!!!!: Fexofenadine Hydrochloride
+!!!!!!!!!!!!!: Almagate
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Levetiracetam Tablets
+!!!!!!!!!!!!!: Domperidone
+!!!!!!!!!!!!!: Reserpine
+!!!!!!!!!!!!!: Reserpine
+!!!!!!!!!!!!!: Tinidazole
+!!!!!!!!!!!!!: Isosorbide Mononitrate
+!!!!!!!!!!!!!: Isosorbide Mononitrate
+!!!!!!!!!!!!!: Glibenclamide
+!!!!!!!!!!!!!: Amphotericin B
+!!!!!!!!!!!!!: Oxycodone Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Benazepril Hydrochloride
+!!!!!!!!!!!!!: Dopamine Hydrochloride
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Montelukast Sodium Tablets
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Epirubicin Hydrochloride
+!!!!!!!!!!!!!: Valsartan
+!!!!!!!!!!!!!: Desflurane
+!!!!!!!!!!!!!: Blonanserin
+!!!!!!!!!!!!!: Bosentan Tablets
+!!!!!!!!!!!!!: Pioglitazone Hydrochloride
+!!!!!!!!!!!!!: Efavirenz
+err
+err
+err
+!!!!!!!!!!!!!: Topotecan Hydrochloride for Injection
+!!!!!!!!!!!!!: Topotecan Hydrochloride for Injection
+!!!!!!!!!!!!!: Zoledronic Acid Injection
+err
+!!!!!!!!!!!!!: Risperidone
+!!!!!!!!!!!!!: Sodium Polystyrene Sulfonate
+err
+!!!!!!!!!!!!!: Loratadine
+!!!!!!!!!!!!!: Irinotecan Hydrochloride Injection
+!!!!!!!!!!!!!: Irinotecan Hydrochloride Injection
+!!!!!!!!!!!!!: Irinotecan Hydrochloride Injection
+!!!!!!!!!!!!!: Ursodeoxycholic Acid
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Vincamine
+!!!!!!!!!!!!!: Azacitidine for Injection
+!!!!!!!!!!!!!: Lansoprazole
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Busulfan Injection
+!!!!!!!!!!!!!: Busulfan Injection
+!!!!!!!!!!!!!: Epirubicin Hydrochloride
+!!!!!!!!!!!!!: Gemcitabine Hydrochloride
+!!!!!!!!!!!!!: Benzbromarone
+!!!!!!!!!!!!!: Fluconazole
+!!!!!!!!!!!!!: Ammonio Methacrylate Copolymer Type A
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Levocetirizine Dihydrochloride
+!!!!!!!!!!!!!: Mesalazine
+!!!!!!!!!!!!!: Lansoprazole
+!!!!!!!!!!!!!: Gramicidin
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Methylprednisolone Sodium Succinate for Injection
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Mupirocin
+!!!!!!!!!!!!!: Domperidone
+!!!!!!!!!!!!!: Risperidone Tablets
+!!!!!!!!!!!!!: Risperidone Tablets
+!!!!!!!!!!!!!: Risperidone Tablets
+!!!!!!!!!!!!!: Cycloserine
+!!!!!!!!!!!!!: Latanoprost
+!!!!!!!!!!!!!: Latanoprost
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Oxaliplatin for Injection
+!!!!!!!!!!!!!: Cetirizine Hydrochloride
+!!!!!!!!!!!!!: Gemifloxacin Mesylate
+!!!!!!!!!!!!!: Gemifloxacin Mesylate
+!!!!!!!!!!!!!: Gemifloxacin Mesylate
+!!!!!!!!!!!!!: Medium chain Triglyceride
+!!!!!!!!!!!!!: Oxaliplatin for Injection
+!!!!!!!!!!!!!: Carboplatin Injection
+!!!!!!!!!!!!!: Ramipril
+!!!!!!!!!!!!!: Montelukast Sodium
+!!!!!!!!!!!!!: Vancomycin Hydrochloride for Injection
+!!!!!!!!!!!!!: Busulfan Injection
+!!!!!!!!!!!!!: Itraconazole
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Propofol Injection
+!!!!!!!!!!!!!: Fosinopril Sodium
+!!!!!!!!!!!!!: Fosinopril Sodium
+!!!!!!!!!!!!!: Luliconazole
+!!!!!!!!!!!!!: Naloxone Hydrochloride
+!!!!!!!!!!!!!: Naloxone Hydrochloride
+!!!!!!!!!!!!!: Glipizide
+!!!!!!!!!!!!!: Fluocinonide
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Capecitabine
+!!!!!!!!!!!!!: Capecitabine
+!!!!!!!!!!!!!: Caspofungin Acetate for Injection
+!!!!!!!!!!!!!: Caspofungin Acetate for Injection
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Cyproheptadine Hydrochloride
+!!!!!!!!!!!!!: Paclitaxel Injection
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: Clopidogrel Bisulfate
+!!!!!!!!!!!!!: carbetocin
+!!!!!!!!!!!!!: carbetocin
+!!!!!!!!!!!!!: carbetocin
+!!!!!!!!!!!!!: carbetocin
+!!!!!!!!!!!!!: Epirubicin Hydrochloride
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Pravastatin Sodium
+!!!!!!!!!!!!!: Telmisartan tablets
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Risperidone Tablets
+!!!!!!!!!!!!!: Risperidone Tablets
+!!!!!!!!!!!!!: Atorvastatin Calcium
+!!!!!!!!!!!!!: Ceftriaxone Sodium for Injection
+!!!!!!!!!!!!!: Ceftriaxone Sodium for Injection
+!!!!!!!!!!!!!: Epirubicin Hydrochloride
+!!!!!!!!!!!!!: Loratadine
+err
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Bicalutamide Tablets
+!!!!!!!!!!!!!: Simvastatin Tablets
+!!!!!!!!!!!!!: Bortezomib for Injection
+!!!!!!!!!!!!!: Rabeprazole Sodium
+!!!!!!!!!!!!!: Rabeprazole Sodium
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Temozolomide Capsules
+!!!!!!!!!!!!!: Telmisartan Tablets
+!!!!!!!!!!!!!: Rivastigmine Tartrate Capsules
+!!!!!!!!!!!!!: Rivastigmine Tartrate Capsules
+!!!!!!!!!!!!!: Rivastigmine Tartrate Capsules
+!!!!!!!!!!!!!: Human Albumin
+!!!!!!!!!!!!!: Human Albumin
