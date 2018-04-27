@@ -210,8 +210,44 @@ def startMapping():
                     Count+=1
                     searchInDrugBankByName(en_name,Count)
 
+# 从直接匹配成功的样本中训练
+def trainMapping():
+    sucSet=set([])
+    fullText=[]
+    vocabList=set([])
+    # 读出一次成功匹配的药瓶英文名称
+    with open('suc.txt','r') as target:
+        for line in target.readlines():
+            sucSet.add(line.split(' ',maxsplit=1)[1][:-1])
+    for drug in sucSet:
+        namelist=drug.split(' ')
+        lenth=len(namelist)
+        toSerchStr=''
+        for i in range(lenth):
+            if i!=0:
+                toSerchStr+='+'+namelist[i]
+            else:
+                toSerchStr=namelist[i]
+        url='https://www.drugbank.ca/unearth/q?c=_score&d=down&query='+toSerchStr+'&searcher=drugs'
+        html=getHTMLText(url)
+        # 检索出该response中的同义词
+        soup=BeautifulSoup(html,'html.parser')
+        synonyms=[key.text for key in soup.select('ul.list-unstyled.table-list-break > li') if len(key)>0]
+        fullText.extend(synonyms)
+        vocabList=vocabList|set(synonyms)
+    writeFile(fullText,'sucFullText.txt')
+    writeFile(list(vocabList),'sucVocabList.txt')
+                           
+def writeFile(contentlist,filename):
+    with open(filename,'a+') as target:
+        for content in contentlist:
+            target.write(content+' ')
 
-if(__name__=="__main__"):
-    #searchInDrugBankByName('Macrogol 1450')
-    # findMostFreqInList()
-    startMapping()
+trainMapping()
+
+
+    # 是否可以通过训练能直接搜索到结果的557个样本得到一个模型
+    # 来找到待搜索词条和搜索到的结果的key之间的关系
+    # 找到关键词和无效关键词来提高剩余样本的匹配准确性
+    # to be continued
+    

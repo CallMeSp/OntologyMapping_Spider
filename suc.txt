@@ -1,7 +1,6 @@
 !!!!!!!!!!!!!: Ergoloid Mesylate
 !!!!!!!!!!!!!: Ergoloid Mesylate
 !!!!!!!!!!!!!: Simvastatin Tablets
-^Cerr
 !!!!!!!!!!!!!: Vinpocetine
 !!!!!!!!!!!!!: Epirubicin Hydrochloride Injection
 !!!!!!!!!!!!!: Epirubicin Hydrochloride Injection
@@ -27,7 +26,6 @@
 !!!!!!!!!!!!!: Iopamidol
 !!!!!!!!!!!!!: clarithromycin
 !!!!!!!!!!!!!: Metformin Hydrochloride
-err
 !!!!!!!!!!!!!: Pantoprazole Sodium
 !!!!!!!!!!!!!: Paclitaxel Injection
 !!!!!!!!!!!!!: Human Albumin
@@ -88,28 +86,13 @@ err
 !!!!!!!!!!!!!: Pilocarpine Nitrate
 !!!!!!!!!!!!!: Cefaclor
 !!!!!!!!!!!!!: Calcium Pantothenate
-err
-err
 !!!!!!!!!!!!!: Mycophenolate Mofetil
 !!!!!!!!!!!!!: Mycophenolate Mofetil
-err
-err
-err
-err
-err
-err
-err
-err
 !!!!!!!!!!!!!: Folic Acid
 !!!!!!!!!!!!!: fluconazole
 !!!!!!!!!!!!!: Etofenamate
-err
-err
-err
 !!!!!!!!!!!!!: Quetiapine Fumarate
 !!!!!!!!!!!!!: Quetiapine Fumarate
-err
-err
 !!!!!!!!!!!!!: Daunorubicin Hydrochloride for Injection
 !!!!!!!!!!!!!: Gliclazide
 !!!!!!!!!!!!!: Polymyxin B Sulfate
@@ -139,7 +122,6 @@ err
 !!!!!!!!!!!!!: Mizolastine
 !!!!!!!!!!!!!: Pholcodine
 !!!!!!!!!!!!!: Cefaclor
-err
 !!!!!!!!!!!!!: Vancomycin Hydrochloride for Injection
 !!!!!!!!!!!!!: Polymyxin B Sulfate
 !!!!!!!!!!!!!: Polymyxin B Sulfate
@@ -184,10 +166,7 @@ err
 !!!!!!!!!!!!!: Meropenem for Injection
 !!!!!!!!!!!!!: Meropenem for Injection
 !!!!!!!!!!!!!: Ticlopidine Hydrochloride
-err
 !!!!!!!!!!!!!: Azithromycin for Injection
-err
-err
 !!!!!!!!!!!!!: Clopidogrel Bisulfate
 !!!!!!!!!!!!!: Fludarabine Phosphate for Injection
 !!!!!!!!!!!!!: Human albumin
@@ -337,7 +316,6 @@ err
 !!!!!!!!!!!!!: Meloxicam
 !!!!!!!!!!!!!: Colchicine
 !!!!!!!!!!!!!: Doxorubicin Hydrochloride
-err
 !!!!!!!!!!!!!: Montelukast sodium
 !!!!!!!!!!!!!: Pregabalin Capsules
 !!!!!!!!!!!!!: Pregabalin Capsules
@@ -457,16 +435,11 @@ err
 !!!!!!!!!!!!!: Bosentan Tablets
 !!!!!!!!!!!!!: Pioglitazone Hydrochloride
 !!!!!!!!!!!!!: Efavirenz
-err
-err
-err
 !!!!!!!!!!!!!: Topotecan Hydrochloride for Injection
 !!!!!!!!!!!!!: Topotecan Hydrochloride for Injection
 !!!!!!!!!!!!!: Zoledronic Acid Injection
-err
 !!!!!!!!!!!!!: Risperidone
 !!!!!!!!!!!!!: Sodium Polystyrene Sulfonate
-err
 !!!!!!!!!!!!!: Loratadine
 !!!!!!!!!!!!!: Irinotecan Hydrochloride Injection
 !!!!!!!!!!!!!: Irinotecan Hydrochloride Injection
@@ -568,7 +541,6 @@ err
 !!!!!!!!!!!!!: Ceftriaxone Sodium for Injection
 !!!!!!!!!!!!!: Epirubicin Hydrochloride
 !!!!!!!!!!!!!: Loratadine
-err
 !!!!!!!!!!!!!: Bicalutamide Tablets
 !!!!!!!!!!!!!: Bicalutamide Tablets
 !!!!!!!!!!!!!: Simvastatin Tablets
