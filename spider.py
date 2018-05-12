@@ -178,20 +178,25 @@ def searchInDrugBankByName(ch_name,en_name,count):
     print(str(count),'raw:',en_name,',result:',maxName,',url is ',maxHref)
     # 本体构建
     # Name_ch
+    tempOwlResult=''
     classType='Name_ch'
     propDict={}
     propDict['is_ch_name_of']=en_name
-    WholeOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
+    tempOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
      # Name_en
     classType='Name_en'
     propDict={}
     propDict['is_en_name_of']=ch_name
     propDict['Mapping']=maxHref.split('/')[-1]
-    WholeOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
+    tempOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
     # Product_in_DrugBank
     classType='Product_in_DrugBank'
     propDict={}
-    WholeOwlResult+=owlHelper.genIndividualOwl(maxHref.split('/')[-1],classType,propDict)
+    tempOwlResult+=owlHelper.genIndividualOwl(maxHref.split('/')[-1],classType,propDict)
+
+    # 将此条数据写入文件
+    with open('Drugowl.owl','a+') as f:
+        f.write(tempOwlResult)
 # 辨别是否能直接返回结果 eg：True：Dimetotiazine，False：
 def testIsSuc(product_name):
     namelist=product_name.split(' ')
@@ -230,21 +235,25 @@ def startMapping():
                     Count+=1
                     print(str(Count),'raw:',en_name,',result:',en_name,',url is ',res)
                     # 本体构建
+                    tempOwlResult=''
                     # Name_ch
                     classType='Name_ch'
                     propDict={}
                     propDict['is_ch_name_of']=en_name
-                    WholeOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
+                    tempOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
                     # Name_en
                     classType='Name_en'
                     propDict={}
                     propDict['is_en_name_of']=ch_name
                     propDict['Mapping']=res.split('/')[-1]
-                    WholeOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
+                    tempOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
                     # Product_in_DrugBank
                     classType='Product_in_DrugBank'
                     propDict={}
-                    WholeOwlResult+=owlHelper.genIndividualOwl(res.split('/')[-1],classType,propDict)
+                    tempOwlResult+=owlHelper.genIndividualOwl(res.split('/')[-1],classType,propDict)
+                    # 将此条数据写入文件
+                    with open('Drugowl.owl','a+') as f:
+                        f.write(tempOwlResult)
                 else:
                     Count+=1
                     searchInDrugBankByName(ch_name,en_name,Count)
