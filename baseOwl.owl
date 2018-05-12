@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#"
+     xml:base="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:DrugTry="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#Mapping -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#Mapping">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_ch_name_of -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_ch_name_of">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_en_name_of -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_en_name_of">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug"/>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_ch -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_ch">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_ch_name_of"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_en"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_en -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_en">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#Mapping"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Product_in_DrugBank"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/DrugTry#is_en_name_of"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Name_ch"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Product_in_DrugBank -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Product_in_DrugBank">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Type -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Type">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/callmesp/ontologies/2018/4/untitled-ontology-9#Drug"/>
+    </owl:Class>

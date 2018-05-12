@@ -4,6 +4,9 @@ import json
 import re
 import operator
 from bs4 import BeautifulSoup
+import owlHelper
+
+WholeOwlResult=owlHelper.getOwlBase()
 
 def getHTMLText(url):
     try:
@@ -123,8 +126,9 @@ def getPageCount(soup):
     
 
 # 没有直接匹配到结果，遍历该搜索下的所有条目  eg：Amoxicillin and Clavulanate Potassium
-def searchInDrugBankByName(product_name,count):
-    namelist=product_name.split(' ')
+def searchInDrugBankByName(ch_name,en_name,count):
+    global WholeOwlResult
+    namelist=en_name.split(' ')
     lenth=len(namelist)
     toSerchStr=''
     for i in range(lenth):
@@ -170,7 +174,24 @@ def searchInDrugBankByName(product_name,count):
                 maxName=nameSerched
             # print(nameSerched,'  ',href)
             # print(keywords)
-    print(str(count),'raw:',product_name,',result:',maxName,',url is ',maxHref)
+    
+    print(str(count),'raw:',en_name,',result:',maxName,',url is ',maxHref)
+    # 本体构建
+    # Name_ch
+    classType='Name_ch'
+    propDict={}
+    propDict['is_ch_name_of']=en_name
+    WholeOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
+     # Name_en
+    classType='Name_en'
+    propDict={}
+    propDict['is_en_name_of']=ch_name
+    propDict['Mapping']=maxHref.split('/')[-1]
+    WholeOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
+    # Product_in_DrugBank
+    classType='Product_in_DrugBank'
+    propDict={}
+    WholeOwlResult+=owlHelper.genIndividualOwl(maxHref.split('/')[-1],classType,propDict)
 # 辨别是否能直接返回结果 eg：True：Dimetotiazine，False：
 def testIsSuc(product_name):
     namelist=product_name.split(' ')
@@ -197,18 +218,66 @@ def testIsSuc(product_name):
         return ''
 # 建立映射
 def startMapping():
+    global WholeOwlResult
     with open('Products.txt','r') as target:
         Count=0
         for temp in target.readlines():
             en_name=re.match(r'.*',re.split(r' ',temp,maxsplit=1)[1]).group()
+            ch_name=re.match(r'.*',re.split(r' ',temp,maxsplit=1)[0]).group()
             if(len(en_name)>5):
                 res=testIsSuc(en_name)
                 if len(res)>0:
                     Count+=1
                     print(str(Count),'raw:',en_name,',result:',en_name,',url is ',res)
+                    # 本体构建
+                    # Name_ch
+                    classType='Name_ch'
+                    propDict={}
+                    propDict['is_ch_name_of']=en_name
+                    WholeOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
+                    # Name_en
+                    classType='Name_en'
+                    propDict={}
+                    propDict['is_en_name_of']=ch_name
+                    propDict['Mapping']=res.split('/')[-1]
+                    WholeOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
+                    # Product_in_DrugBank
+                    classType='Product_in_DrugBank'
+                    propDict={}
+                    WholeOwlResult+=owlHelper.genIndividualOwl(res.split('/')[-1],classType,propDict)
                 else:
                     Count+=1
-                    searchInDrugBankByName(en_name,Count)
+                    searchInDrugBankByName(ch_name,en_name,Count)
+        # temp=target.readline()
+        # en_name=re.match(r'.*',re.split(r' ',temp,maxsplit=1)[1]).group()
+        # ch_name=re.match(r'.*',re.split(r' ',temp,maxsplit=1)[0]).group()
+        # if(len(en_name)>5):
+        #     res=testIsSuc(en_name)
+        #     if len(res)>0:
+        #         Count+=1
+        #         print(str(Count),'raw:',en_name,',result:',en_name,',url is ',res)
+        #         # 本体构建
+        #         # Name_ch
+        #         classType='Name_ch'
+        #         propDict={}
+        #         propDict['is_ch_name_of']=en_name
+        #         WholeOwlResult+=owlHelper.genIndividualOwl(ch_name,classType,propDict)
+        #         # Name_en
+        #         classType='Name_en'
+        #         propDict={}
+        #         propDict['is_en_name_of']=ch_name
+        #         propDict['Mapping']=res.split('/')[-1]
+        #         WholeOwlResult+=owlHelper.genIndividualOwl(en_name,classType,propDict)
+        #         # Product_in_DrugBank
+        #         classType='Product_in_DrugBank'
+        #         propDict={}
+        #         WholeOwlResult+=owlHelper.genIndividualOwl(res.split('/')[-1],classType,propDict)
+        #     else:
+        #         Count+=1
+        #         searchInDrugBankByName(ch_name,en_name,Count)
+    WholeOwlResult+=owlHelper.WholerightTag
+    with open('Drugowl.owl','w') as f:
+        f.write(WholeOwlResult)
 
 # 从直接匹配成功的样本中训练
 def trainMapping():
@@ -243,7 +312,7 @@ def writeFile(contentlist,filename):
         for content in contentlist:
             target.write(content+' ')
 
-trainMapping()
+startMapping()
 
 
     # 是否可以通过训练能直接搜索到结果的557个样本得到一个模型
